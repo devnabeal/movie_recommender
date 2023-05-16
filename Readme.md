@@ -9,10 +9,6 @@
 ### Website Preview
 #### Home Page
 <img src="website_images/HomePage.png" width="900">
-
-#### Detail Page
-<img src="website_images/DetailPage.png" width="900">
-
 ----
 
 ## Installation 📦
